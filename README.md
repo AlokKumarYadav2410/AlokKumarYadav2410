@@ -2,15 +2,15 @@
 
 ## 🌟 About Me:
 I am a passionate Full-Stack Developer currently pursuing a B.Tech in Computer Science. My journey in the tech world is driven by a deep enthusiasm for Java, where I delve into advanced concepts like Servlets, JDBC, and frameworks such as Spring Boot.
-<br>
+<br><br>
 💻 Throughout my studies, I’ve mastered core Java principles by developing projects like a console-based food ordering system. My GitHub serves as a showcase of my web development journey, featuring projects like a classic Tic Tac Toe game. I specialize in building efficient and scalable applications using Java, Servlets, JDBC, and MySQL.
-<br>
+<br><br>
 🔧 Explore My Repositories: Discover my work on user authentication and more. I'm constantly exploring new technologies and honing my coding skills.
-<br>
+<br><br>
 My journey also includes mastering the fundamentals of web development with HTML, CSS, and JavaScript. Some of my favorite projects include a versatile Personal Management System.
-<br>
+<br><br>
 I have also explored Java Swing by doing a project including Bank Management System.
-<br>
+<br><br>
 🌱 Always eager to learn and grow, I’m excited to share my projects and collaborate with fellow developers. Let’s connect and explore the tech world together!
 
 ## 🌐 Socials | Connect with me:
