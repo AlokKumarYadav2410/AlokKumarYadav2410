@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Alok Kumar Yadav</h1>
 
 ## 🌟 About Me:
-I am a passionate Full-Stack Developer currently pursuing a B.Tech in Computer Science. My journey in the tech world is driven by a deep enthusiasm for Java, where I delve into advanced concepts like Servlets, JDBC, and frameworks such as Spring Boot.
-<br><br>
-💻 Throughout my studies, I’ve mastered core Java principles by developing projects like a console-based food ordering system. My GitHub serves as a showcase of my web development journey, featuring projects like a classic Tic Tac Toe game. I specialize in building efficient and scalable applications using Java, Servlets, JDBC, and MySQL.
-<br><br>
-🔧 Explore My Repositories: Discover my work on user authentication and more. I'm constantly exploring new technologies and honing my coding skills.
-<br><br>
-My journey also includes mastering the fundamentals of web development with HTML, CSS, and JavaScript. Some of my favorite projects include a versatile Personal Management System.
-<br><br>
-I have also explored Java Swing by doing a project including Bank Management System.
-<br><br>
-🌱 Always eager to learn and grow, I’m excited to share my projects and collaborate with fellow developers. Let’s connect and explore the tech world together!
+I’m a passionate Full-Stack Developer currently pursuing a B.Tech in Computer Science, with a growing focus on the MERN stack (MongoDB, Express.js, React.js, Node.js). My journey into web development is driven by a love for building responsive, scalable, and user-friendly applications.
+
+💻 I've developed hands-on experience in building full-stack web apps, from setting up backend APIs with Node.js and Express to creating dynamic frontends using React.js. I'm also familiar with MongoDB for handling databases, and I enjoy working with RESTful APIs and integrating user authentication systems.
+
+🛠️ My GitHub showcases a range of projects, including a personal management system, a Tic Tac Toe game, and other web apps that reflect my journey in mastering HTML, CSS, JavaScript, and now the MERN stack.
+
+🧠 I'm continuously learning — exploring modern web technologies, improving my code architecture, and experimenting with tools like Postman, JWT, and Mongoose.
+
+🌱 Always curious and eager to grow, I’m excited to contribute to real-world projects, collaborate with fellow developers, and make an impact in the tech world.
+
+Let’s connect, code, and build something awesome together!
 
 ## 🌐 Socials | Connect with me:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/xbeCJdKF) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alok-kumar-yadav-a85a93322/) 
