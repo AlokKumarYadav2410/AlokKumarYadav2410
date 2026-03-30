@@ -2,7 +2,9 @@
   Hi, I'm Alok Kumar Yadav 👋
 </h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&size=22&center=true&vCenter=true&width=500&lines=Frontend+Focused+Developer;React+%7C+Tailwind+%7C+MERN;Building+Beautiful+Web+Experiences"/>
+  <!-- <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&size=22&center=true&vCenter=true&width=500&lines=FullStack+Focused+Developer;React+%7C+Tailwind+%7C+MERN;Building+Beautiful+Web+Experiences"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=1F6FEB&size=23&center=true&vCenter=true&width=650&lines=Full-Stack+Software+Engineer;Expertise+in+React%2C+Node.js+%26+MongoDB;Building+Production-Ready+Applications;Focused+on+Clean+Architecture"/> -->
+  <img src="https://readme-typing-svg.herokuapp.com?color=00C896&size=24&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;React+%7C+Node+%7C+MongoDB;Designing+Smooth+User+Experiences;Focused+on+Clean+Architecture;Turning+Ideas+into+Real+Products;Code.+Create.+Innovate."/>
 </p>
 <h3 align="center">
   Full-Stack Developer | MERN
@@ -13,6 +15,11 @@
 </p>
 
 <p align="center">
+
+  <a href="http://portfolio-alok-live.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-View-000000?style=flat&logo=vercel&logoColor=white"/>
+  </a>
+  
   <a href="https://www.linkedin.com/in/alokkumaryadav2410/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin"/>
   </a>
@@ -38,23 +45,21 @@
 <!-- > **Production-grade projects with real functionality & modern UI** -->
 <!-- > **Top projects with live demos and modern UI** -->
 
-### 🎨 Dominate Design - Web-Based Design Tool (FLAGSHIP PROJECT)
-- Browser-based design application with canvas editor, layers panel & properties inspector
-- JavaScript • HTML • CSS
-- 🔗 **Live:** [dominate-design.vercel.app](https://dominate-design.vercel.app/)  
-- 📦 **Repo:** [GitHub](https://github.com/AlokKumarYadav2410/dominate-design)
+### 🎬 Movix - Movie Discovery Platform (FULL-STACK) (FLAGSHIP PROJECT)
+- Full-stack movie exploration platform with real-time search, trailers & user personalization
+- React • Redux Toolkit • Node.js • Express • MongoDB
+- 🔐 JWT Auth • Role-Based Access Control (Admin/User)
+- ⭐ Favorites & Watch History tracking
+- 🔗 Live: [movix-wcf2.onrender.com](https://movix-wcf2.onrender.com/)
+- 📦 Repo: [Github](https://github.com/AlokKumarYadav2410/movix)
 
-### 🎬 Drameeo - OTT Platform UI
-- Netflix-inspired UI, dark theme, reusable components
-- React • Tailwind
-- 🔗 **Live:** [drameeo-ott-platform.vercel.app](https://drameeo-ott-platform.vercel.app/)  
-- 📦 **Repo:** [GitHub](https://github.com/AlokKumarYadav2410/drameeo-ott-platform)
-
-### 🎨 Image Editor Web App
-- Apply filters, presets & image adjustments
-- HTML • CSS • JavaScript
-- 🔗 **Live:** [image-editor-web-six.vercel.app](https://image-editor-web-six.vercel.app/)  
-- 📦 **Repo:** [GitHub](https://github.com/AlokKumarYadav2410/image-editor-web)
+### 🎧 Moodify - AI Mood-Based Music App (FULL-STACK)
+- AI-powered app that detects facial expressions and plays music based on your mood
+- 🎭 Emotion detection: Happy • Sad • Surprised
+- 🔄 Dynamic UI adaptation based on user mood
+- React 19 • Redux Toolkit • Node.js • Express • MongoDB
+- 🔗 Live: [moodify-music-zl8y.onrender.com](https://moodify-music-zl8y.onrender.com/)
+- 📦 Repo: [Github](https://github.com/AlokKumarYadav2410/moodify)
 
 ### 🛍️ Storeo - Modern E-Commerce Platform
 - React • Tailwind • Vite • Axios | Smooth animations, fast performance, clean UI
@@ -66,15 +71,33 @@
 - 🔗 **Live:** [notes-hub-six.vercel.app](https://notes-hub-six.vercel.app/)  
 - 📦 **Repo:** [GitHub](https://github.com/AlokKumarYadav2410/notes-hub)
 
+### 🎬 Drameeo - OTT Platform UI
+- Netflix-inspired UI, dark theme, reusable components
+- React • Tailwind
+- 🔗 **Live:** [drameeo-ott-platform.vercel.app](https://drameeo-ott-platform.vercel.app/)  
+- 📦 **Repo:** [GitHub](https://github.com/AlokKumarYadav2410/drameeo-ott-platform)
+
+<!-- ### 🎨 Dominate Design - Web-Based Design Tool (FLAGSHIP PROJECT)
+- Browser-based design application with canvas editor, layers panel & properties inspector
+- JavaScript • HTML • CSS
+- 🔗 **Live:** [dominate-design.vercel.app](https://dominate-design.vercel.app/)  
+- 📦 **Repo:** [GitHub](https://github.com/AlokKumarYadav2410/dominate-design)
+
+### 🎨 Image Editor Web App
+- Apply filters, presets & image adjustments
+- HTML • CSS • JavaScript
+- 🔗 **Live:** [image-editor-web-six.vercel.app](https://image-editor-web-six.vercel.app/)  
+- 📦 **Repo:** [GitHub](https://github.com/AlokKumarYadav2410/image-editor-web)  -->
+
 ---
 
 ## 💡 Other Projects
 
 | Project | Description | Tech | Live | Repo |
 |---------|-------------|------|------|------|
-| DVSY Fashion UI | Minimal Fashion UI | React, Tailwind, Vite | [Live](https://dvsy-fashion-ui.vercel.app/) | [GitHub](https://github.com/AlokKumarYadav2410/dvsy-fashion-ui) |
-| Buddy Book | Contact Management App | React, Tailwind | [Live](https://buddy-book-ten.vercel.app/) | [GitHub](https://github.com/AlokKumarYadav2410/buddy-book) |
-| Web Development Tasks | Project Gallery | HTML, CSS, JS | [Live](https://web-development-project-page.vercel.app/) | [GitHub](https://github.com/AlokKumarYadav2410/web-development-tasks) |
+| DVSY Fashion UI | Minimal Fashion UI | React, Tailwind, Vite | [https://dvsy-fashion-ui.vercel.app](https://dvsy-fashion-ui.vercel.app/) | [GitHub](https://github.com/AlokKumarYadav2410/dvsy-fashion-ui) |
+| Buddy Book | Contact Management App | React, Tailwind | [buddy-book-ten.vercel.app](https://buddy-book-ten.vercel.app/) | [GitHub](https://github.com/AlokKumarYadav2410/buddy-book) |
+| Web Development Tasks | Project Gallery | HTML, CSS, JS | [web-development-project-page.vercel.app](https://web-development-project-page.vercel.app/) | [GitHub](https://github.com/AlokKumarYadav2410/web-development-tasks) |
 | Weather App | Weather Forecasting | Html, CSS, JS | [Live](https://web-development-project-page.vercel.app/Javascript/JsProjects/weather-app/index.html) | [GitHub](https://github.com/AlokKumarYadav2410/web-development-tasks/tree/main/Javascript/JsProjects/weather-app) |
 
 ---
