@@ -4,7 +4,7 @@
 <p align="center">
   <!-- <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&size=22&center=true&vCenter=true&width=500&lines=FullStack+Focused+Developer;React+%7C+Tailwind+%7C+MERN;Building+Beautiful+Web+Experiences"/>
   <img src="https://readme-typing-svg.herokuapp.com?color=1F6FEB&size=23&center=true&vCenter=true&width=650&lines=Full-Stack+Software+Engineer;Expertise+in+React%2C+Node.js+%26+MongoDB;Building+Production-Ready+Applications;Focused+on+Clean+Architecture"/> -->
-  <img src="https://readme-typing-svg.herokuapp.com?color=00C896&size=24&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;React+%7C+Node+%7C+MongoDB;Designing+Smooth+User+Experiences;Focused+on+Clean+Architecture;Turning+Ideas+into+Real+Products;Code.+Create.+Innovate."/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=blue&size=24&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;React+%7C+Node+%7C+MongoDB;Designing+Smooth+User+Experiences;Focused+on+Clean+Architecture;Turning+Ideas+into+Real+Products;Code.+Create.+Innovate."/>
 </p>
 <h3 align="center">
   Full-Stack Developer | MERN
@@ -138,7 +138,7 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=alokkumaryadav2410&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 <!-- Streak status-->
-![](https://nirzak-streak-stats.vercel.app/?user=AlokKumarYadav2410&theme=dark&hide_border=false)
+<!-- ![](https://nirzak-streak-stats.vercel.app/?user=AlokKumarYadav2410&theme=dark&hide_border=false) -->
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AlokKumarYadav2410&theme=dark&hide_border=false)<br/> 
 <!--  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=alokkumaryadav2410&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
@@ -149,7 +149,7 @@
 
 ## 📬 Let’s Build Something Cool
 
-- 💼 Open to internships/job & collaborations
+- 💼 Open to job & collaborations
 - 🌐 Love working on UI-heavy products
 - 🚀 Always ready to learn & ship
 
